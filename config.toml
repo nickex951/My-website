@@ -4,7 +4,7 @@ title = "我的個人網站" #標題
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "https-lifewillchange-netlify-com."  #留言板帳號
+disqusShortname = "https-lifewillchange-netlify-com"  #留言板帳號
 googleAnalytics = ""  #google關鍵字分析
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
